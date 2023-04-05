@@ -34,9 +34,9 @@ nav > a {
     font-weight: 900;
 }
 .content1 h2{
-    background-color: aquamarine;
-    color: rgb(255, 0, 0);
+    color: #ffffff;
     text-align: center;
+    font-size: 60px;
 }
 .content1 {
     background-color: rgb(255, 255, 255);
